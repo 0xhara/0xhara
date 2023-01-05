@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![snake gif]
-https://github.com/srihar5ha/srihar5ha/blob/output/github-contribution-grid-snake-dark.gif
+https://github.com/srihar5ha/srihar5ha/blob/output/github-contribution-grid-snake-dark.svg
+
