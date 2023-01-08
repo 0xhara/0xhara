@@ -37,5 +37,4 @@
 
 #
 ![snake gif]
-https://github.com/srihar5ha/srihar5ha/blob/output/github-contribution-grid-snake.gif
-https://github.com/srihar5ha/srihar5ha/blob/output/github-contribution-grid-snake.gif
+(https://github.com/srihar5ha/srihar5ha/blob/output/github-contribution-grid-snake.gif)
