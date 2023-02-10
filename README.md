@@ -36,4 +36,5 @@
 </p>
 
 #
-![snake gif](https://github.com/srihar5ha/srihar5ha/blob/output/github-contribution-grid-snake.svg)
+<!-- This is a comment in the markdown file 
+![snake gif](https://github.com/srihar5ha/srihar5ha/blob/output/github-contribution-grid-snake.svg) -->
