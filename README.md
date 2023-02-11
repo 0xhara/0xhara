@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="naruto-seal" width="600px" src="https://github.com/srihar5ha/srihar5ha/blob/main/seal-sage.jpg"</img>
+<img alt="naruto-seal" width="750px" src="https://github.com/srihar5ha/srihar5ha/blob/main/seal-sage.jpg"</img>
 </p>
 
 ### नमस्ते (Namaste), I am Sri Harsha
@@ -7,12 +7,14 @@
 ##### :smile: :smile: This is the place where I opensource stuff and break perfectly working code
 #
 
- 🔭 I’m currently working on **Data Science** Projects
-- 🌱 I’m currently learning **Neural Networks**
-- 👯 I’m looking to collaborate on any stuff with **python**
-- 🤔 I’m looking for help with Front End for my projects
+- 🔭 I’m currently working on **Building a Data Science Portfolio**.
 
-- 📫  I love connecting with different people so if you want to say hi, I'll be happy to connect :)
+- 📚👓 I am currently expanding my knowledge and expertise in the field of **Machine Learning-Deep Learning** through self-study and hands-on projects. 
+
+-  🌍💻🏠 I am actively seeking **REMOTE WORK opportunities** that align with my skills and experience.
+
+- 🌟 🌟 **Thanks for stopping by!** I look forward to connecting with you. 🌟🌟
+
 <h3>:wrench:  🚀 Some Tools I Use </h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
