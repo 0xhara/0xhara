@@ -3,19 +3,31 @@
 </p>
 
 ### नमस्ते (Namaste), I am Sri Harsha
+#### 🤞🤞 **Sr. Software Engineer** turned **Freelancer** 🤞🤞
+#####  😎😎 This is the Place where I Opensource Stuff and Break Perfectly Working Code !!
 
-##### :smile: :smile: This is the place where I opensource stuff and break perfectly working code
 #
+#### About me :
+
+-  I am a seasoned **Backend Engineer** transitioning my career towards **Data science and ML**.
+<!--
+- ####  with expertise in **Backend Technologies, Data Science, and Machine Learning.** -->
+- 🔥🔥 My Most Impactful Work So Far : an **Augemented Reality(AR) app** for **Predicting Maintenance of Devices in the Data Center**
 
 - 🔭 I’m currently working on **Building a Data Science Portfolio**.
 
-- 📚👓 I am currently expanding my knowledge and expertise in the field of **Machine Learning-Deep Learning** through self-study and hands-on projects. 
+- 📚👓 Expanding my knowledge and expertise in the field of **Machine Learning-Deep Learning** through self-study and hands-on projects. 
 
 -  🌍💻🏠 I am actively seeking **REMOTE WORK opportunities** that align with my skills and experience.
 
+
+<!--who am i??  A believer in the great unknown, -->
+
 - 🌟 🌟 **Thanks for stopping by!** I look forward to connecting with you. 🌟🌟
 
-<h3>:wrench:  🚀 Some Tools I Use </h2>
+#
+
+<h4>:wrench:  🚀 Some Tools I Use </h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
