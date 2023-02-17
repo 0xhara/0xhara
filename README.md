@@ -12,7 +12,7 @@
 -  I am a seasoned **Backend Engineer** transitioning my career towards **Data science and ML**.
 <!--
 - ####  with expertise in **Backend Technologies, Data Science, and Machine Learning.** -->
-- 🔥🔥 My Most Impactful Work So Far : an **Augemented Reality(AR) app** for **Predicting Maintenance of Devices in the Data Center**
+- 🔥🔥 My Most Impactful Work So Far : an **Augemented Reality(AR) app** for **Predictive Maintenance of Devices in a Data Center**
 
 - 🔭 I’m currently working on **Building a Data Science Portfolio**.
 
