@@ -6,7 +6,8 @@
 #### 🤞🤞 **Sr. Software Engineer** turned **Freelancer** 🤞🤞
 #####  😎😎 This is the Place where I Opensource Stuff and Break Perfectly Working Code !!
 
-#
+ #### If you are a recruiter,Please take a look at my Resume : [Download](https://github.com/srihar5ha/srihar5ha/blob/main/harsha_resume.pdf)
+
 #### About me :
 
 -  I am a seasoned **Backend Engineer** transitioning my career towards **Data science and ML**.
