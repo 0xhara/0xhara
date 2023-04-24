@@ -3,8 +3,8 @@
 </p>
 
 ### नमस्ते (Namaste), I am Sri Harsha
-#### 🤞🤞 **Sr. Software Engineer** turned **Freelancer** 🤞🤞
-#####  😎😎 This is the Place where I Opensource Stuff and Break Perfectly Working Code !!
+#### 🤞🤞 **Sr. Software Engineer** turned **Freelancer** 
+#####  😎 This is the Place where I Opensource Stuff and Break Perfectly Working Code !!
 
  #### If you are a recruiter,Please take a look at my Resume : [Download](https://github.com/srihar5ha/srihar5ha/blob/main/harsha_resume.pdf)
 
@@ -13,7 +13,7 @@
 -  I am a seasoned **Backend Engineer** transitioning my career towards **Data science and ML**.
 <!--
 - ####  with expertise in **Backend Technologies, Data Science, and Machine Learning.** -->
-- 🔥🔥 My Most Impactful Work So Far : an **Augemented Reality(AR) app** for **Predictive Maintenance of Devices in a Data Center**
+- 🔥 My Most Impactful Work So Far : an **Augemented Reality(AR) app** for **Predictive Maintenance of Devices in a Data Center**
 
 - 🔭 I’m currently working on **Building a Data Science Portfolio**.
 
