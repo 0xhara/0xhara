@@ -3,22 +3,22 @@
 </p>
 
 ### नमस्ते (Namaste), I am Sri Harsha
-#### 🤞🤞 **Sr. Software Engineer** turned **Freelancer** 
-#####  😎 This is the Place where I Opensource Stuff and Break Perfectly Working Code !!
-
- #### If you are a recruiter,Please take a look at my Resume : [Download](https://github.com/srihar5ha/srihar5ha/blob/main/harsha_resume.pdf)
+#### 🤞🤞 ** Software Engineer** - **Freelancer** 
+#####  This is the Place where I Opensource Stuff and Break Perfectly Working Code !!
+<!--
+ #### If you are a recruiter,Please take a look at my Resume : [Download](https://github.com/srihar5ha/srihar5ha/blob/main/harsha_resume.pdf) -->
 
 #### About me :
 
--  I am a seasoned **Backend Engineer** transitioning my career towards **Data science and ML**.
+-  I am a seasoned **Backend Engineer** transitioning my career towards **Web3 Ecosystem**.
 <!--
-- ####  with expertise in **Backend Technologies, Data Science, and Machine Learning.** -->
-- 🔥 My Most Impactful Work So Far : an **Augemented Reality(AR) app** for **Predictive Maintenance of Devices in a Data Center**
+- ####  with expertise in **Backend Technologies, Data Science, and Machine Learning.** 
+- 🔥 My Most Impactful Work So Far : an **Augemented Reality(AR) app** for **Predictive Maintenance of Devices in a Data Center** -->
 
-- 🔭 I’m currently working on **Building a Data Science Portfolio**.
-
+- 🔭 I’m currently learning - **Solidity, smart contracts, Ethereum**.
+<!--
 - 📚👓 Expanding my knowledge and expertise in the field of **Machine Learning-Deep Learning** through self-study and hands-on projects. 
-
+-->
 -  🌍💻🏠 I am actively seeking **REMOTE WORK opportunities** that align with my skills and experience.
 
 
