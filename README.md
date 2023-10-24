@@ -15,12 +15,12 @@
 - ####  with expertise in **Backend Technologies, Data Science, and Machine Learning.** 
 - 🔥 My Most Impactful Work So Far : an **Augemented Reality(AR) app** for **Predictive Maintenance of Devices in a Data Center** -->
 
-- 🔭 I’m currently learning - **Solidity, smart contracts, Ethereum**.
+- 🔭 I’m currently working on - **smart contract development, ERC-4337 Account abstraction,Identity Management in web3, ZK-ROllups..**.
 <!--
 - 📚👓 Expanding my knowledge and expertise in the field of **Machine Learning-Deep Learning** through self-study and hands-on projects. 
 -->
--  🌍💻🏠 I am actively seeking **REMOTE WORK opportunities** that align with my skills and experience.
-
+-  🌍💻🏠 I am actively seeking **REMOTE WORK opportunities** that align with my Interests, skills and experience.
+- I'd love to Collab On Interesting Projects in web3 space, Always Up for BrainStorming new Ideas.
 
 <!--who am i??  A believer in the great unknown, -->
 
