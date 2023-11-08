@@ -2,7 +2,7 @@
 <img alt="naruto-seal" width="750px" src="https://github.com/srihar5ha/srihar5ha/blob/main/seal-sage.jpg"</img>
 </p>
 
-### नमस्ते (Namaste), I am Sri Harsha
+### नमस्ते (Namaste), I am Harsha
 #### 🤞🤞 ** Software Engineer** - **Freelancer** 
 #####  This is the Place where I Opensource Stuff and Break Perfectly Working Code !!
 <!--
@@ -19,7 +19,7 @@
 <!--
 - 📚👓 Expanding my knowledge and expertise in the field of **Machine Learning-Deep Learning** through self-study and hands-on projects. 
 -->
--  🌍💻🏠 I am actively seeking **REMOTE WORK opportunities** that align with my Interests, skills and experience.
+-  🌍💻🏠 I am actively seeking **REMOTE WORK** that align with my Interests, skills and experience.
 - I'd love to Collab On Interesting Projects in web3 space, Always Up for BrainStorming new Ideas.
 
 <!--who am i??  A believer in the great unknown, -->
