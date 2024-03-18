@@ -3,22 +3,21 @@
 </p>
 
 ### नमस्ते (Namaste), I'm Sri Harsha
-#### Experienced software engineer seamlessly navigating the web3 ecosystem.
-<!--
- #### If you are a recruiter,Please take a look at my Resume : [Download](https://github.com/srihar5ha/srihar5ha/blob/main/harsha_resume.pdf) -->
-
+#### Software Engineer, exploring depths of WEB3 realm.
 #### About me :
 - I have over 5 years of experience in software engineering, Worked in automation, data analysis, machine learning, augmented reality,now Web3/blockchain being the latest venture.  
-<!--
-- ####  with expertise in **Backend Technologies, Data Science, and Machine Learning.** 
-- 🔥 My Most Impactful Work So Far : an **Augemented Reality(AR) app** for **Predictive Maintenance of Devices in a Data Center** -->
 
-- 🔭 I’m working on - **smart contracts, ERC-4337 Account abstraction,Identity Management in web3, ZK-Rollups..**.
-  
-- 🧠  I'm currently honing my auditing skills, specializing in smart contracts and blockchain security.
-<!--
-- 📚👓 Expanding my knowledge and expertise in the field of **Machine Learning-Deep Learning** through self-study and hands-on projects. 
--->
+🔭 I’m working on - Smart Contracts Security, ERC-4337 Account abstraction, Decentralised Identity Management, ZK-Proofs...
+
+🧠 I'm currently honing my Auditing Skills
+- #### Auditing Journey So far
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Completed Cyfrin-Updraft's security course.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- my audit portfolio so far:[audits](../SmartContract_Audit_Portfolio).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Had an oppurtunity to work with GuardianAudits.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Learning: fuzzing, invariant testing, formal verification, and bot racing.
+
+- 🦋🦋Dreaming of starting my own blockchain security company some day...or maybe I'll just open a food truck. Biryani, anyone? 🍛🍲
+
 -  🌍💻🏠 I am actively seeking **REMOTE WORK** that align with my Interests, skills and experience.
   
 - I'd love to Collab On Interesting Projects in web3 space, Always Up for BrainStorming new Ideas.
