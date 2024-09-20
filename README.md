@@ -4,12 +4,9 @@
 
 ### नमस्ते (Namaste), I'm Sri Harsha
 #### Software Engineer, exploring depths of WEB3 realm.
-#### About me :
-Domains I've worked in So far:
-- Automation, Data analysis, Machine learning,BackEnd developer,Augmented reality  
 
 🔭 **I’m working on** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Smart Contracts Security<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Smart Contracts Security & Research<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- FHE(homomorphic encryption)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Huff/assembly<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-RWA-tokenisations<br>
@@ -23,7 +20,7 @@ Domains I've worked in So far:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Learning: fuzzing, invariant testing, formal verification. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
 
-- 🦋🦋Dreaming of starting my own blockchain security company some day...or maybe I'll just open a food truck. Biryani, anyone? 🍛🍲
+- 🦋🦋Dreaming of starting my own blockchain security company some day...or maybe I'll just open a food truck 🍛🍲 .
 
 -  🌍💻🏠 I am actively seeking **REMOTE WORK** that align with my Interests, skills and experience.
   
