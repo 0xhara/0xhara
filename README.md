@@ -2,7 +2,7 @@
 <img alt="naruto-seal" width="750px" src="https://github.com/srihar5ha/srihar5ha/blob/main/seal-sage.jpg"</img>
 </p>
 
-### नमस्ते (Namaste), I'm Sri Harsha
+### Hi!, I'm Hara
 #### Software Engineer, exploring depths of WEB3 realm.
 
 🔭 **I’m working on** <br>
@@ -19,8 +19,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- my audit portfolio so far:[audits](https://github.com/srihar5ha/SmartContract_Audit_Portfolio).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Learning: fuzzing, invariant testing, formal verification. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
-
-- 🦋🦋Dreaming of starting my own blockchain security company some day...or maybe I'll just open a food truck 🍛🍲 .
 
 -  🌍💻🏠 I am actively seeking **REMOTE WORK** that align with my Interests, skills and experience.
   
