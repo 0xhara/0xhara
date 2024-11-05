@@ -15,7 +15,7 @@
 
 🧠 I'm currently honing my Auditing Skills
 - #### Auditing Journey So far
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Completed Cyfrin-Updraft's security course.  
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Completed Cyfrin-Updraft's security course.   -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- my audit portfolio so far:[audits](https://github.com/srihar5ha/SmartContract_Audit_Portfolio).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Learning: fuzzing, invariant testing, formal verification. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
