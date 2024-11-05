@@ -2,7 +2,7 @@
 <img alt="naruto-seal" width="750px" src="https://github.com/srihar5ha/srihar5ha/blob/main/seal-sage.jpg"</img>
 </p>
 
-### Hi!, I'm Hara
+### Hi!, I'm Killua
 #### Software Engineer, exploring depths of WEB3 realm.
 
 🔭 **I’m working on** <br>
